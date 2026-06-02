@@ -1,0 +1,2 @@
+Nie zadzala bo funkcja  setCount(count + 1); bazuje się na wartości 0 i sa one wywoływane w tym samym czasie co powoduje ze ustawia wartość na 1 a nie na 3 musiały by mieć 
+...prev żeby dodalo do 3
